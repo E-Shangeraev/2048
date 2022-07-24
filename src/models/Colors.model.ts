@@ -1,0 +1,16 @@
+export enum Colors {
+  COLOR_2 = 'tile2',
+  COLOR_4 = 'tile4',
+  COLOR_8 = 'tile8',
+  COLOR_16 = 'tile16',
+  COLOR_32 = 'tile32',
+  COLOR_64 = 'tile64',
+  COLOR_128 = 'tile128',
+  COLOR_256 = 'tile256',
+  COLOR_512 = 'tile512',
+  COLOR_1024 = 'tile1024',
+  COLOR_2048 = 'tile2048',
+  COLOR_4096 = 'tile4096',
+  COLOR_8192 = 'tile8192',
+  COLOR_16384 = 'tile16384',
+}

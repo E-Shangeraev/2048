@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'clear_sansbold';
+  src: local('../fonts/ClearSans-Bold-webfont.eot');
+  src: local('../fonts/ClearSans-Bold-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    local('../fonts/ClearSans-Bold-webfont.woff2') format('woff2'),
+    local('../fonts/ClearSans-Bold-webfont.woff') format('woff'),
+    local('../fonts/ClearSans-Bold-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'clear_sansbold_italic';
+  src: local('../fonts/ClearSans-BoldItalic-webfont.eot');
+  src: local('../fonts/ClearSans-BoldItalic-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    local('../fonts/ClearSans-BoldItalic-webfont.woff2') format('woff2'),
+    local('../fonts/ClearSans-BoldItalic-webfont.woff') format('woff'),
+    local('../fonts/ClearSans-BoldItalic-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'clear_sansitalic';
+  src: local('../fonts/ClearSans-Italic-webfont.eot');
+  src: local('../fonts/ClearSans-Italic-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    local('../fonts/ClearSans-Italic-webfont.woff2') format('woff2'),
+    local('../fonts/ClearSans-Italic-webfont.woff') format('woff'),
+    local('../fonts/ClearSans-Italic-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'clear_sans_lightregular';
+  src: local('../fonts/ClearSans-Light-webfont.eot');
+  src: local('../fonts/ClearSans-Light-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    local('../fonts/ClearSans-Light-webfont.woff2') format('woff2'),
+    local('../fonts/ClearSans-Light-webfont.woff') format('woff'),
+    local('../fonts/ClearSans-Light-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'clear_sans_mediumregular';
+  src: local('../fonts/ClearSans-Medium-webfont.eot');
+  src: local('../fonts/ClearSans-Medium-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    local('../fonts/ClearSans-Medium-webfont.woff2') format('woff2'),
+    local('../fonts/ClearSans-Medium-webfont.woff') format('woff'),
+    local('../fonts/ClearSans-Medium-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'clear_sans_mediumitalic';
+  src: local('../fonts/ClearSans-MediumItalic-webfont.eot');
+  src: local('../fonts/ClearSans-MediumItalic-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    local('../fonts/ClearSans-MediumItalic-webfont.woff2') format('woff2'),
+    local('../fonts/ClearSans-MediumItalic-webfont.woff') format('woff'),
+    local('../fonts/ClearSans-MediumItalic-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'clear_sansregular';
+  src: local('../fonts/ClearSans-Regular-webfont.eot');
+  src: local('../fonts/ClearSans-Regular-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    local('../fonts/ClearSans-Regular-webfont.woff2') format('woff2'),
+    local('../fonts/ClearSans-Regular-webfont.woff') format('woff'),
+    local('../fonts/ClearSans-Regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'clear_sans_thinregular';
+  src: local('../fonts/ClearSans-Thin-webfont.eot');
+  src: local('../fonts/ClearSans-Thin-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    local('../fonts/ClearSans-Thin-webfont.woff2') format('woff2'),
+    local('../fonts/ClearSans-Thin-webfont.woff') format('woff'),
+    local('../fonts/ClearSans-Thin-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
